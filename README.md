@@ -1,2 +1,4 @@
-# petsimx
-a pet simulator x script march 2023 trade scam
+#petsimx
+--copy or download the script in the script page.
+--execute in your executor.
+--enjoy! :)
